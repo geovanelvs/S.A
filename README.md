@@ -40,7 +40,7 @@ cypress.config.js
 README.md
 
 # O que foi testado
- 1. Página de Cadastro — cadastro.cy.js
+1. Página de Cadastro — cadastro.cy.js
 
 Aqui eu testei:
 
