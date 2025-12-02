@@ -35,7 +35,7 @@ clicar no teste que quer rodar.
 cypress/
   e2e/
     cadastro.cy.js
-    pokedex.cy.js
+    index.cy.js
 cypress.config.js
 README.md
 
